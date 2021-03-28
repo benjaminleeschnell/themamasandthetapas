@@ -143,6 +143,12 @@ a.footer {
   border-top: 45px solid #000;
 }
 
+@media (max-width: 500px) {
+  a.footer {
+    font-size: 1em;
+  }
+}
+
 .smgc-cal-rDpFlqK5MnWf65yxiZuQ-calendar-month-title {
   font-family: 'Prompt' !important;
 }
